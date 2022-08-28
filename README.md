@@ -25,12 +25,20 @@ Review Model:
 
 Apis→
 1 → Get All Blogs (/blogs/getblog)
+
 2 → Get Blog By Id(/blogs/getblogbyid/:blogid)
+
 3 → Create Blog(/blogs/postblog)
+
 4 → Update Blog(/blogs/edit/:blogid)
+
 5 → Delete Blog(/blogs/deleteblog/:blogid)
 
 
+
 6 → Create Review (/blogreviews/postblogreview)
+
 7 → Delete Review (/blogreviews/deleteblogreview/:blogreviewid)
+
 8 → Get All Reviews(/blogreviews/getblogreview)
+
